@@ -3,10 +3,9 @@
 angular.module("alienodev")
     .component("team", {
         templateUrl: "app/components/team/team.html",
-        controller : Team
+        controller: Team
     })
 
 
 function Team() {
-    
 }

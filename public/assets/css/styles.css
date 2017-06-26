@@ -1,6 +1,14 @@
+.greybg {
+    background: #eeeeee;
+    padding: 3vh;
+}
+
 .portrait {
     border-radius: 50%;
     transition: box-shadow 0.5s;
+    padding: 1vw;
+    border: 1px dashed grey;
+    background: white;
 }
 
 .portrait:hover {
